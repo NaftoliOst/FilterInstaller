@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J6QYbMh9GDr4o8mMq7t2d20AhlrKTiowJhoiy5BEcqHdiPUJ6a9ltg0Z74DQoTVFDb17u+PMei0c1qSDb/o9qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nafto\\source\\repos\\FilterInstaller\\FilterInstaller.Core\\FilterInstaller.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nafto\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\mvvmcross\\8.0.2\\mvvmcross.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

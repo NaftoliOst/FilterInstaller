@@ -1,0 +1,10 @@
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\bin\Debug\netcoreapp3.1\FilterInstaller.Core.deps.json
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\bin\Debug\netcoreapp3.1\FilterInstaller.Core.dll
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\bin\Debug\netcoreapp3.1\FilterInstaller.Core.pdb
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\obj\Debug\netcoreapp3.1\FilterInstaller.Core.csproj.AssemblyReference.cache
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\obj\Debug\netcoreapp3.1\FilterInstaller.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\obj\Debug\netcoreapp3.1\FilterInstaller.Core.AssemblyInfoInputs.cache
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\obj\Debug\netcoreapp3.1\FilterInstaller.Core.AssemblyInfo.cs
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\obj\Debug\netcoreapp3.1\FilterInstaller.Core.csproj.CoreCompileInputs.cache
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\obj\Debug\netcoreapp3.1\FilterInstaller.Core.dll
+C:\Users\nafto\source\repos\FilterInstaller\FilterInstaller.Core\obj\Debug\netcoreapp3.1\FilterInstaller.Core.pdb

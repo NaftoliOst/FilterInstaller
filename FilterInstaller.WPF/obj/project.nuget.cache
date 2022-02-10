@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "AyhUhBsjH45tkSxUcWrVrYzOFWSMvXQCSHNv++qiUh9TyyDhd9xFnvwKIGI0zdPYcSnzn/kvpuxPBE+67i55ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nafto\\source\\repos\\FilterInstaller\\FilterInstaller.WPF\\FilterInstaller.WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nafto\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\microsoft.extensions.logging\\2.0.0\\microsoft.extensions.logging.2.0.0.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\mvvmcross\\8.0.2\\mvvmcross.8.0.2.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\mvvmcross.platforms.wpf\\8.0.2\\mvvmcross.platforms.wpf.8.0.2.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\serilog.extensions.logging\\3.1.0\\serilog.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\nafto\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
